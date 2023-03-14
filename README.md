@@ -1,2 +1,2 @@
-# SP_Global_DS_test
- Data Science Take Test at S & P Global
+# S&P Global Data Science Interview
+ Data Science Take Home Test at S & P Global
